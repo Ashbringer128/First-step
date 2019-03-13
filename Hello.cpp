@@ -3,5 +3,5 @@
 
 int main()
 {
-    std::cout << "Hello World!epta#4+ check for merge\n"; 
+    std::cout << "Hello World!epta#4\n"; 
 }
