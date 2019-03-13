@@ -1,1 +1,1 @@
-ya lublu vodafon(net)(net - net - net);kj';o'
+ya lublu vodafon(net)(net-net-net)
