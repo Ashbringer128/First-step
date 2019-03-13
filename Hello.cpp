@@ -3,6 +3,6 @@
 
 int main()
 {
-    std::cout << "Hello World!epta#4\n"; 
-	ugk.u;
+    std::cout << "Hello World!\n"; 
+	//ugk.u;
 }
