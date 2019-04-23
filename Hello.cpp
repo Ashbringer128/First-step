@@ -3,5 +3,6 @@
 
 int main()
 {
-    std::cout << "Hello World!\wth is going on???\n"; 
+    std::cout << "Hello World!\n"; 
+	// ne nu sho za dela?
 }
