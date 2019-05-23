@@ -3,5 +3,6 @@
 
 int main()
 {
-    std::cout << "Hello World!epdf sdf sdf sdf sdf ta#4\wth is killing me???\n";
+    std::cout << "Hello World!\wth is killing me???\n";
+    //zakroyte laby pls
 }
