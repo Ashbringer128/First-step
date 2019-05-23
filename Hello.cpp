@@ -7,5 +7,5 @@ int main()
     //zakroyte laby pls
     //pls pls
     //cmon
-    // получилось віс'ыsіваавіваі
+    // получилось
 }
